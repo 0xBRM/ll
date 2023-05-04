@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" version="1.2" baseProfile="tiny-ps" viewBox="0 0 94 94" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px">
+ <title>Lindy Labs</title>
+ <rect width="94" height="94" fill="#000"/>
+ <g id="Logotype" clip-path="url(#clip0_513_1072)">
+  <g id="Symbol">
+   <path id="Vector" d="m27.807 51.501-12.807-8.7458v-10.35l12.807 8.7286v10.367z" fill="#129EFE"/>
+   <path d="m53.403 79.308-25.597-17.457v-10.35l25.597 17.457v10.35z" fill="#129EFE"/>
+   <path d="m27.807 51.501 12.79-8.7458v-10.35l-12.79 8.7286v10.367z" fill="#0B5CFC"/>
+   <path d="m53.403 51.501-12.807-8.7458v-10.35l12.807 8.7286v10.367z" fill="#2734FF"/>
+   <path d="m53.403 51.501 12.807-8.7458v-10.35l-12.807 8.7286v10.367z" fill="#F97F18"/>
+   <path d="m53.403 79.308 25.597-17.457v-10.35l-25.597 17.457v10.35z" fill="#F97F18"/>
+   <path d="m40.495 15.017-25.495 17.388 12.807 8.7286 12.79-8.7286 12.807 8.7286 12.807-8.7286-25.529-17.405-0.1868 0.0173z" fill="#fff"/>
+   <path d="m53.403 68.959 25.597-17.457-12.79-8.7458-12.807 8.7458-12.807-8.7458-12.79 8.7458 25.597 17.457z" fill="#fff"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="clip0_513_1072">
+   <rect transform="translate(15 15)" width="64" height="64" fill="#fff"/>
+  </clipPath>
+ </defs>
+</svg>
