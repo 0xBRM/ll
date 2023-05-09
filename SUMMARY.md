@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Lindy Labs](README.md)
+* [A Foray Into "Crypto"](README.md)
