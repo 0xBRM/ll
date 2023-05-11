@@ -4,3 +4,4 @@
 
 * [What is Web3?](README.md)
 * [Blockchain Technology](a-foray-into-crypto/blockchain-technology.md)
+* [Cryptocurrency](a-foray-into-crypto/cryptocurrency.md)

@@ -8,10 +8,10 @@ Each block in the blockchain contains a unique code, called a hash, that links i
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Because the ledger is distributed across a network of computers, there is no need for a central authority to manage and verify transactions. Instead, they are verified by a network of computers, the validity of their consensus determined by a consensus algorithm.  This makes the system more secure, as there is no single point of failure or vulnerability that can be exploited by hackers.&#x20;
+Because the ledger is distributed across a network of economically incentivized computers under the same consensus algorithm, there is no need for a central authority to manage and verify transactions.  This makes the system more secure, as there is no single point of failure or vulnerability that can be exploited by hackers.
 
-Note: The most widely used consensus algorithm is Proof-of-Stake, an economically secure and energy efficient consensus algorithm.
+> **Note:** The most widely used consensus algorithm is Proof-of-Stake, an economically secure and energy efficient consensus algorithm.
 
-Overall, blockchain or distributed ledger technology provides a transparent, secure, and decentralized way to record and verify transactions, making it ideal for a wide range of applications, from financial transactions to supply chain management and anticounterfeiting and beyond.
+Overall, blockchain or distributed ledger technology provides a transparent, secure, and decentralized way to record and verify transactions, making it ideal for a wide range of applications, from financial transactions to supply chain management and anti-counterfeiting and beyond.
 
 \
