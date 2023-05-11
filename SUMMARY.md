@@ -1,3 +1,6 @@
 # Table of contents
 
-* [A Foray Into "Crypto"](README.md)
+## A Foray into Crypto
+
+* [What is Web3?](README.md)
+* [Blockchain Technology](a-foray-into-crypto/blockchain-technology.md)
