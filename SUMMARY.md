@@ -9,3 +9,4 @@
 * [Wallets](a-foray-into-crypto/wallets/README.md)
   * [Public and Private Keys](a-foray-into-crypto/wallets/public-and-private-keys.md)
 * [DeFi](a-foray-into-crypto/defi.md)
+* [Tokenization](a-foray-into-crypto/tokenization.md)
