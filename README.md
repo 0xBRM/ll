@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # What is Web3?
 
 You may have heard of the latest iteration of the internet referred to as “Web3.” To understand Web3 and where the internet is headed, it’s helpful to first understand where it’s been.
