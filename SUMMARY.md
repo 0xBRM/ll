@@ -8,3 +8,4 @@
 * [Benefits of Blockchain Technology](a-foray-into-crypto/benefits-of-blockchain-technology.md)
 * [Wallets](a-foray-into-crypto/wallets/README.md)
   * [Public and Private Keys](a-foray-into-crypto/wallets/public-and-private-keys.md)
+* [DeFi](a-foray-into-crypto/defi.md)
