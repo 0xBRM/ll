@@ -19,6 +19,4 @@ One of Web3’s biggest innovations is enabling secure and verifiable ownership 
 
 Web3 enables the creation of decentralized applications, or dApps, that operate on blockchain networks and are resistant to censorship and control by centralized authorities. These dApps can be used for a wide range of applications, such as decentralized finance, social media, gaming, and more.
 
-Overall, Web3 is focused on creating a more open and equitable internet that is owned and controlled by its users, rather than a few centralized entities—empowering individuals and human freedom.
-
-\
+Overall, Web3 is focused on creating a more open and equitable internet that is owned and controlled by its users, rather than a few centralized entities—empowering individuals and human freedom.\
